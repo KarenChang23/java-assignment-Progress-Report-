@@ -1,0 +1,15 @@
+FOUNDATION COURSES:
+MBA 500 Advanced Academic and Professional Practices;
+MBA 503 Foundations of Business Statistics;
+IT 500 Business Analytics;
+IT 501 Fundamentals of Java Programming;
+
+CORE COURSES:
+IT 510 Information Technology Management;
+IT 511 Data Management;
+IT 512 Project Management;
+IT 513 Information Security;
+IT 514 Web Development;
+IT 515 Data Warehousing;
+IT 516 Social Media Analytics;
+IT 517 Big Data Analytics;

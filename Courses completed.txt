@@ -1,0 +1,28 @@
+Tom
+MBA 500 Advanced Academic and Professional Practices:95;
+IT 500 Business Analytics:94.6;
+IT 512 Project Management:88;
+IT 513 Information Security:91.2;
+-------------------------------------------
+Tim
+MBA 503 Foundations of Business Statistics:85;
+IT 501 Fundamentals of Java Programming:70;
+IT 500 Business Analytics:64;
+IT 516 Social Media Analytics:77;
+IT 515 Organizational Behavior:50;
+-------------------------------------------
+Smith
+MBA 503 Foundations of Business Statistics:20;
+IT 509 Data Management:89;
+IT 512 Project Management:90;
+-------------------------------------------
+Davis
+MBA 503 Foundations of Business Statistics:77;
+IT 501 Fundamentals of Java Programming:89;
+IT 510 Information Technology Management:88;
+IT 517 Big Data Analytics:90;
+-------------------------------------------
+Judge
+MBA 503 Foundations of Business Statistics:95;
+IT 501 Fundamentals of Java Programming:88;
+
